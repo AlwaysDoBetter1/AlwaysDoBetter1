@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlwaysDoBetter1
-- 👀 I’m interested in SystemAdministrations and Automatization
+- 👀 I’m interested in SystemAdministrations and Automatization and Development
 - 🌱 I’m currently learning Bash
-- 💞️ I’m looking to collaborate on SystemAdminisration or DevOps
+- 💞️ I’m looking to collaborate on SystemAdminisration or Python Developer
 - 📫 How to reach me pavlo.vyskrebentsev@gmail.com
 
 <!---
