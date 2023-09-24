@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AlwaysDoBetter1
-- 👀 I’m interested in SystemAdministrations and Development
-- 🌱 I’m currently learning Bash
-- 💞️ I’m looking to collaborate on SystemAdminisration or Python Developer
+- 👋 Hi, I’m Pavlo
+- 👀 I’m interested in Python development
+- 🌱 I’m currently learning NumPy
+- 💞️ I’m looking to collaborate on Python Developer
 - 📫 How to reach me pavlo.vyskrebentsev@gmail.com
 
 <!---
