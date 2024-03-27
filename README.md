@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning NumPy
 - 💞️ I’m looking to collaborate on Python Developer
 - 📫 How to reach me pavlo.vyskrebentsev@gmail.com
-- in this repository i wrote small examples my code on bash and python
+- in this repository i wrote examples my code on bash and python
