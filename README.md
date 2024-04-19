@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pavlo
 - 👀 I’m interested in Python development
-- 🌱 I’m currently learning NumPy
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Python Developer
 - 📫 How to reach me pavlo.vyskrebentsev@gmail.com
 - in this repository i wrote examples my code on bash and python
