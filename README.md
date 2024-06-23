@@ -3,4 +3,4 @@
 - Solved more than 3,500 programming tasks and have a pet project
 - 🌱 I’m currently improove Django
 - 💞️ I’m looking to collaborate on Python Developer
-- 📫 How to reach me pavlo.vyskrebentsev@gmail.com, Telegram: @Hilooha
+- 📫 How to reach me pavlo.vyskrebentsev@gmail.com, Telegram: @ZeroDivis1onError
