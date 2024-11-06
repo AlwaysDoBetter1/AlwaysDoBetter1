@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pavlo
 - 👀 I’m interested in Python development and testing
-- Solved more than 3,800 programming tasks and have a pet project
-- 🌱 I’m currently improve Django
-- 💞️ I’m looking to collaborate on Python Developer
-- 📫 How to reach me pavlo.vyskrebentsev@gmail.com, Telegram: @ZeroDivis1onError
+- My tech stack: Python(Djngo, DRF, Pytest, asyncio, Selenium, Odoo), JavaScript, PostgreSQL, HTML/CSS/Bootstrap5, Docker, Docker Compose, Linux/Bash, OOP(DRY, SOLID, KISS)
+- 🌱 I’m currently improve AWS
+- 💞️ I have job experience as Python Developer - 1 year
+- 📫 How to reach me pavlo.vyskrebentsev@gmail.com, Telegram: @ZeroDivis1on
