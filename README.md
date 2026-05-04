@@ -2,5 +2,5 @@
 - 👀 I’m interested in Python development and testing
 - My tech stack: Python(Djngo, DRF, Pytest, asyncio, Selenium, Odoo), JavaScript, PostgreSQL, HTML/CSS/Bootstrap5, Docker, Docker Compose, Linux/Bash, OOP(DRY, SOLID, KISS)
 - 🌱 I’m currently improve AWS
-- 💞️ I have job experience as Python Developer - 1 year
+- 💞️ I have job experience as Python Developer - 2 year
 - 📫 How to reach me pavlo.vyskrebentsev@gmail.com, Telegram: @ZeroDivis1on
